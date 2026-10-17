@@ -1,0 +1,28 @@
+[
+  {
+    "refCode": "MHA-2026-7841",
+    "studentName": "Mugisha Brian",
+    "parentName": "Alice Mukamugema",
+    "parentEmail": "norbertihimbazwemanzi@gmail.com",
+    "parentPhone": "+250 788 444 333",
+    "gradeCode": "P2",
+    "status": "Pending Confirmation",
+    "messages": [
+      {
+        "id": "msg-seed-1",
+        "sender": "system",
+        "senderName": "Mugina Hope Administration Desk",
+        "text": "Registration received for Mugisha Brian (P2). Application is currently under review by School Administrator Norbert Ihimbazwe Manzi.",
+        "createdAt": "2026-10-12T08:30:00.000Z"
+      },
+      {
+        "id": "msg-seed-2",
+        "sender": "parent",
+        "senderName": "Alice Mukamugema",
+        "text": "Muraho Administrator Norbert, we submitted Brian's transfer report from his previous school. Please let us know if additional documents are needed.",
+        "createdAt": "2026-10-12T09:15:00.000Z"
+      }
+    ],
+    "updatedAt": "2026-10-12T09:15:00.000Z"
+  }
+]
